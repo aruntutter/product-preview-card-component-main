@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://your-solution-url.com)
-- Live Site URL: [here](https://your-live-site-url.com)
+- Solution URL: [here](https://github.com/aruntutter/product-preview-card-component-main)
+- Live Site URL: [here](https://spiffy-belekoy-1a1116.netlify.app)
 
 ## My process
 
